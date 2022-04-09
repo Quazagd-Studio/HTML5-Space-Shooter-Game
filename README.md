@@ -1,7 +1,7 @@
 # HTML-5-Space-Shooter-Game
 An HTML5 Canvas Space Shooter with Powerups With Busch Of Enemies!
 
-![Preview](/assets/preview.jpg)
+![Preview](assets/preview.jpg)
 
 ## Features
 
